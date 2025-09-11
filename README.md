@@ -20,7 +20,7 @@ Welcome to my GitHub! I’m a passionate **game developer** and **C# enthusiast*
 A next-gen farming simulation inspired by modern mobile farming games.  
 - 🌾 Manage crops, animals, and farm expansion.  
 - 👥 Social interactions and quests.  
-- 🎨 Colorful, intuitive interface with Frutiger Aero-inspired design.  
+- 🎨 intuitive interface simple controls. 
 
 ### **Severed Veil**  
 A horror survival game with unique infection mechanics and immersive gameplay.  
