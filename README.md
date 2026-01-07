@@ -8,31 +8,16 @@ Welcome to my GitHub! I’m a passionate **game developer** and **C# enthusiast*
 
 - 🎮 Game Design Student, exploring gameplay mechanics, UI/UX, and interactive storytelling.  
 - 💻 Strong in **C#** and **Unity**.  
-- 🛠 Passionate about building **innovative games, mods, and interactive systems**.  
-- 🌱 Always experimenting with new projects, from farming simulators to horror survival games.  
-- 💡 Problem-solving, creating tools for games, and optimizing gameplay systems are my jam.  
-
+- 🛠 Passionate about building ** games, mods, and interactive systems**.  
 ---
 
 ## 🎮 Featured Projects  
-
+https://ibb.co/tPDRbQP0
 ### **FarmFriendzy**  
 A next-gen farming simulation inspired by modern mobile farming games.  
 - 🌾 Manage crops, animals, and farm expansion.  
 - 👥 Social interactions and quests.  
 - 🎨 intuitive interface simple controls. 
-
-### **Severed Veil**  
-A horror survival game with unique infection mechanics and immersive gameplay.  
-- 🧟 Zombie infection system with multiple stages and dynamic effects.  
-- 🗺 Dynamic loot spawning and Tarkov-style progression.  
-- 🖥 Realistic old-school UI and virtual machine mechanics.  
-
-### **Schedule 1 Mods**  
-MelonLoader-based mods for **Schedule 1**, including:  
-- 🍄 Custom plants (shrooms) with unique growth mechanics.  
-- 📱 Phone-only supplier NPCs (Psylos) with unlockable mechanics.  
-- 🔧 Harmony patches and dynamic content injection.  
 
 ---
 
