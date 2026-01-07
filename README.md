@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m a passionate **game developer** and **C# enthusiast*
 ---
 
 ## 🎮 Featured Projects  
-[![FarmFriendzy Preview](https://i.ibb.co/YOUR_IMAGE_ID.png)](https://ibb.co/tPDRbQP0)
+[![FarmFriendzy Preview](https://i.ibb.co/Pzgk5Fz2/Farm-Game.png)](https://ibb.co/tPDRbQP0)
 ### **FarmFriendzy**  
 A next-gen farming simulation inspired by modern mobile farming games.  
 - 🌾 Manage crops, animals, and farm expansion.  
